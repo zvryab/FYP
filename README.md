@@ -1,6 +1,6 @@
-[NOTE: This is not updated yet, please wait until 30th April before accessing files]
-
 Final Year Project: Enhancing HCI with AI
+
+[FYP_Final has been updated with annotations and FYP_Research has been left in the rough developmental state]
 
 
 ## Overview
